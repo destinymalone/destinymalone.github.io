@@ -2,3 +2,11 @@ a {
   color: inherit;
   text-decoration: underline;
 }
+
+li.borderless {
+  border-top: 0 none;
+}
+
+#name {
+  text-decoration: none;
+}
